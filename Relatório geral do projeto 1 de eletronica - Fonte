@@ -1,20 +1,23 @@
 Relatório:
 
+Protoboard: - Modelo: BB-01 840
+
 Resistor acima do zener: 3.3k,   ¼ W (potência máxima necessária seria 40 mW)
 
-Resistor após potenciômetro: 3.3k,   ¼ W (potência máxima necessária seria 3.6mW)
+Resistor após potenciômetro: 4.7K,   ¼ W (potência máxima necessária seria 3.6mW)
 
-Resistência do potenciômetro: 10k,  — W (potência máxima necessária seria 20 mW)
+Potenciômetro: 10k,  1W (potência máxima necessária seria 20 mW) - Modelo: B16,5XE-20XR-7MM
 
 Resistência que reduz corrente pro transistor: 82, 2W (potência máxima necessária seria 1.1W)
 
 
-LED (potência máxima necessária seria 5.4mW)
+LED (potência máxima necessária seria 5.4mW) - 5MM Verde
 Resistor pos LED: 3.3k, ¼ W (potência máxima necessária seria 34 mW)
 
 
 Transistor: 2N2222 , ½ W (potência máxima necessária seria 500mW)
-Zenner: (potência máxima necessária seria 10mW)
+Zenner: 13V, 1W (potência máxima necessária seria 10mW) - Modelo: 1N4743
+Ponte de Diodos: 2W1, 2A, 800V
 
 
 Transformador: 1 ou 2 (24.2 V no capacitor)
