@@ -1,0 +1,31 @@
+Relatório-
+
+Resistor acima do zener: 3.3k,   ¼ W (potência máxima necessária seria 40 mW)
+
+Resistor após potenciômetro: 3.3k,   ¼ W (potência máxima necessária seria 3.6mW)
+
+Resistência do potenciômetro: 10k,  — W (potência máxima necessária seria 20 mW)
+
+Resistência que reduz corrente pro transistor: 82, 2W (potência máxima necessária seria 1.1W)
+
+
+LED (potência máxima necessária seria 5.4mW)
+Resistor pos LED: 3.3k, ¼ W (potência máxima necessária seria 34 mW)
+
+
+Transistor: 2N2222 , ½ W (potência máxima necessária seria 500mW)
+Zenner: (potência máxima necessária seria 10mW)
+
+
+Transformador: 1 ou 2 (24.2 V no capacitor)
+Capacitor: Capacitância = 470microF, 35V, (2.7W é potência mínima)
+{
+        Ripple = Corrente / (frequência * Capacitância)
+        Com um ripple de 30 V * 0.1, de acordo com o transformador
+        
+        3V = 100mA / (120Hz * C)
+        C = 0.1 / 120 * 3
+        C = 278 microFaradays
+
+
+}
