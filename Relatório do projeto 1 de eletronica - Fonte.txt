@@ -1,4 +1,4 @@
-Relatório-
+Relatório:
 
 Resistor acima do zener: 3.3k,   ¼ W (potência máxima necessária seria 40 mW)
 
