@@ -23,9 +23,9 @@ Capacitor: Capacitância = 470microF, 35V, (2.7W é potência mínima)
         Ripple = Corrente / (frequência * Capacitância)
         Com um ripple de 30 V * 0.1, de acordo com o transformador
         
-        3V = 100mA / (120Hz * C)
-        C = 0.1 / 120 * 3
-        C = 278 microFaradays
+        3V = 107mA / (120Hz * C)
+        C = 0.107 / 120 * 3
+        C = 297 microFaradays
 
 
 }
