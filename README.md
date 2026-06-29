@@ -4,3 +4,9 @@ Link da planta do projeto:
 
 Link do video do youtube:
 
+[Video do Youtube](https://youtube.com/shorts/ghNHbZNCz1o?feature=share)
+
+Link do Falstad:
+
+[Link do Falstad](https://tinyurl.com/2c7ya7pd)
+
