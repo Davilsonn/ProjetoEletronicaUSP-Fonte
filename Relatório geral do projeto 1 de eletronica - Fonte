@@ -4,7 +4,7 @@ Protoboard: - Modelo: BB-01 840
 
 Resistor acima do zener: 3.3k,   ¼ W (potência máxima necessária seria 40 mW)
 
-Resistor após potenciômetro: 4.7K,   ¼ W (potência máxima necessária seria 3.6mW)
+Resistor após potenciômetro: 3.3K,   ¼ W (potência máxima necessária seria 3.6mW)
 
 Potenciômetro: 10k,  1W (potência máxima necessária seria 20 mW) - Modelo: B16,5XE-20XR-7MM
 
